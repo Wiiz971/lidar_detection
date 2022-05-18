@@ -10,11 +10,11 @@
     * [Achwaq Khelifi](https://github.com/jsp)
 
 * Files related to Python Implementation:
-    * [lidar_segementation_detection.py]() - the main file that implements LIDAR data processing
-    * [pcl_processing.py]() - LIDAR processing script
-    * [lidar_2D_tracking.py]() - multi-object tracking based on LIDAR measurement
-    * [Kd_tree_simple.py]() - A simple implementation of Kd tree
-    * [pca_bounding_box.py]() - A simple implementation of 2D oriented bounding box (OBB)
+    * [lidar_segementation_detection.py](https://github.com/Wiiz971/lidar_detection/blob/main/lidar_segementation_detection.py) - the main file that implements LIDAR data processing
+    * [pcl_processing.py](https://github.com/Wiiz971/lidar_detection/blob/main/pcl_processing.py) - LIDAR processing script
+    * [lidar_2D_tracking.py](https://github.com/Wiiz971/lidar_detection/blob/main/lidar_2D_tracking.py) - multi-object tracking based on LIDAR measurement
+    * [Kd_tree_simple.py](https://github.com/Wiiz971/lidar_detection/blob/main/Kd-tree.py) - A simple implementation of Kd tree
+    * [pca_bounding_box.py](https://github.com/Wiiz971/lidar_detection/blob/main/pca_bounding_box.py) - A simple implementation of 2D oriented bounding box (OBB)
 
 
 * Tools used for the project :
